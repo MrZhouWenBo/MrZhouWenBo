@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Deep learning 3D recgnization
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me QQ 1158373689
-- record:  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
-- method: git remote set-url origin https://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@github.com/MrZhouWenBo/**.git/
+- record:  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
+- method: git remote set-url origin https://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@github.com/MrZhouWenBo/**.git/
 
 
 <!---
