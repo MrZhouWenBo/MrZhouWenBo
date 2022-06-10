@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Deep learning 3D recgnization
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me QQ 1158373689
-- record:  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
-- method: git remote set-url origin https://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@github.com/MrZhouWenBo/仓库名称
+- record:  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
+- method: git remote set-url origin https://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@github.com/MrZhouWenBo/仓库名称
 
 <!---
 MrZhouWenBo/MrZhouWenBo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
